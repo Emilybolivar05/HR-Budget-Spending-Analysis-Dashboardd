@@ -16,7 +16,7 @@ The dataset and dashboard labels remain in **Spanish** because the original data
 /data
     Base de Datos.xlsx
 /assets
-    preview.jpg
+    preview.png
 /reports
     HR_Expense_Dashboard.pbix
 README.md
@@ -119,7 +119,7 @@ The dataset consists of three tables provided in Excel:
 
 A preview image is available inside the `/assets` folder.
 
-![Dashboard Preview](assets/preview.jpg)
+![Dashboard Preview](assets/preview.png)
 
 ---
 
